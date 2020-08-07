@@ -48,3 +48,6 @@ public class VisitSDJpaService implements VisitService {
         visitRepository.deleteById(aLong);
     }
 }
+
+
+
